@@ -774,3 +774,251 @@
 2020-03-14,"Region 5","South Khorasan",4
 2020-03-14,"Region 5","Kerman",0
 2020-03-14,"Region 5","North Khorasan",1
+2020-03-15,"Region 1","Qom",84
+2020-03-15,"Region 1","Tehran",251
+2020-03-15,"Region 1","Mazandaran",72
+2020-03-15,"Region 1","Alborz",67
+2020-03-15,"Region 1","Semnan",41
+2020-03-15,"Region 1","Golestan",25
+2020-03-15,"Region 1","Qazvin",22
+2020-03-15,"Region 2","Esfahan",126
+2020-03-15,"Region 2","Fars",9
+2020-03-15,"Region 2","Hormozgan",7
+2020-03-15,"Region 2","Kohgiluyeh and Buyer Ahmad",1
+2020-03-15,"Region 2","Chahar Mahall and Bakhtiari",0
+2020-03-15,"Region 2","Bushehr",6
+2020-03-15,"Region 3","Gilan",43
+2020-03-15,"Region 3","Ardebil",0
+2020-03-15,"Region 3","East Azarbaijan",36
+2020-03-15,"Region 3","West Azarbaijan",18
+2020-03-15,"Region 3","Kordestan",27
+2020-03-15,"Region 3","Zanjan",32
+2020-03-15,"Region 4","Markazi",0
+2020-03-15,"Region 4","Hamadan",11
+2020-03-15,"Region 4","Khuzestan",32
+2020-03-15,"Region 4","Kermanshah",13
+2020-03-15,"Region 4","Lorestan",52
+2020-03-15,"Region 4","Ilam",18
+2020-03-15,"Region 5","Razavi Khorasan",143
+2020-03-15,"Region 5","Sistan and Baluchestan",6
+2020-03-15,"Region 5","Yazd",36
+2020-03-15,"Region 5","South Khorasan",18
+2020-03-15,"Region 5","Kerman",7
+2020-03-15,"Region 5","North Khorasan",6
+2020-03-16,"Region 1","Qom",19
+2020-03-16,"Region 1","Tehran",200
+2020-03-16,"Region 1","Mazandaran",96
+2020-03-16,"Region 1","Alborz",49
+2020-03-16,"Region 1","Semnan",34
+2020-03-16,"Region 1","Golestan",42
+2020-03-16,"Region 1","Qazvin",40
+2020-03-16,"Region 2","Esfahan",118
+2020-03-16,"Region 2","Fars",43
+2020-03-16,"Region 2","Hormozgan",16
+2020-03-16,"Region 2","Kohgiluyeh and Buyer Ahmad",5
+2020-03-16,"Region 2","Chahar Mahall and Bakhtiari",3
+2020-03-16,"Region 2","Bushehr",4
+2020-03-16,"Region 3","Gilan",18
+2020-03-16,"Region 3","Ardebil",30
+2020-03-16,"Region 3","East Azarbaijan",35
+2020-03-16,"Region 3","West Azarbaijan",31
+2020-03-16,"Region 3","Kordestan",31
+2020-03-16,"Region 3","Zanjan",15
+2020-03-16,"Region 4","Markazi",14
+2020-03-16,"Region 4","Hamadan",12
+2020-03-16,"Region 4","Khuzestan",53
+2020-03-16,"Region 4","Kermanshah",16
+2020-03-16,"Region 4","Lorestan",0
+2020-03-16,"Region 4","Ilam",2
+2020-03-16,"Region 5","Razavi Khorasan",0
+2020-03-16,"Region 5","Sistan and Baluchestan",11
+2020-03-16,"Region 5","Yazd",51
+2020-03-16,"Region 5","South Khorasan",7
+2020-03-16,"Region 5","Kerman",13
+2020-03-16,"Region 5","North Khorasan",45
+2020-03-17,"Region 1","Qom",29
+2020-03-17,"Region 1","Tehran",273
+2020-03-17,"Region 1","Mazandaran",59
+2020-03-17,"Region 1","Alborz",116
+2020-03-17,"Region 1","Semnan",33
+2020-03-17,"Region 1","Golestan",30
+2020-03-17,"Region 1","Qazvin",26
+2020-03-17,"Region 2","Esfahan",75
+2020-03-17,"Region 2","Fars",31
+2020-03-17,"Region 2","Hormozgan",6
+2020-03-17,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-17,"Region 2","Chahar Mahall and Bakhtiari",2
+2020-03-17,"Region 2","Bushehr",4
+2020-03-17,"Region 3","Gilan",45
+2020-03-17,"Region 3","Ardebil",19
+2020-03-17,"Region 3","East Azarbaijan",78
+2020-03-17,"Region 3","West Azarbaijan",34
+2020-03-17,"Region 3","Kordestan",2
+2020-03-17,"Region 3","Zanjan",25
+2020-03-17,"Region 4","Markazi",47
+2020-03-17,"Region 4","Hamadan",6
+2020-03-17,"Region 4","Khuzestan",25
+2020-03-17,"Region 4","Kermanshah",14
+2020-03-17,"Region 4","Lorestan",35
+2020-03-17,"Region 4","Ilam",7
+2020-03-17,"Region 5","Razavi Khorasan",63
+2020-03-17,"Region 5","Sistan and Baluchestan",11
+2020-03-17,"Region 5","Yazd",49
+2020-03-17,"Region 5","South Khorasan",12
+2020-03-17,"Region 5","Kerman",19
+2020-03-17,"Region 5","North Khorasan",3
+2020-03-18,"Region 1","Qom",22
+2020-03-18,"Region 1","Tehran",213
+2020-03-18,"Region 1","Mazandaran",61
+2020-03-18,"Region 1","Alborz",76
+2020-03-18,"Region 1","Semnan",60
+2020-03-18,"Region 1","Golestan",20
+2020-03-18,"Region 1","Qazvin",53
+2020-03-18,"Region 2","Esfahan",162
+2020-03-18,"Region 2","Fars",60
+2020-03-18,"Region 2","Hormozgan",12
+2020-03-18,"Region 2","Kohgiluyeh and Buyer Ahmad",13
+2020-03-18,"Region 2","Chahar Mahall and Bakhtiari",4
+2020-03-18,"Region 2","Bushehr",4
+2020-03-18,"Region 3","Gilan",21
+2020-03-18,"Region 3","Ardebil",10
+2020-03-18,"Region 3","East Azarbaijan",84
+2020-03-18,"Region 3","West Azarbaijan",42
+2020-03-18,"Region 3","Kordestan",22
+2020-03-18,"Region 3","Zanjan",20
+2020-03-18,"Region 4","Markazi",23
+2020-03-18,"Region 4","Hamadan",13
+2020-03-18,"Region 4","Khuzestan",28
+2020-03-18,"Region 4","Kermanshah",7
+2020-03-18,"Region 4","Lorestan",39
+2020-03-18,"Region 4","Ilam",10
+2020-03-18,"Region 5","Razavi Khorasan",30
+2020-03-18,"Region 5","Sistan and Baluchestan",6
+2020-03-18,"Region 5","Yazd",45
+2020-03-18,"Region 5","South Khorasan",21
+2020-03-18,"Region 5","Kerman",11
+2020-03-18,"Region 5","North Khorasan",0
+2020-03-19,"Region 1","Qom",31
+2020-03-19,"Region 1","Tehran",137
+2020-03-19,"Region 1","Mazandaran",58
+2020-03-19,"Region 1","Alborz",61
+2020-03-19,"Region 1","Semnan",16
+2020-03-19,"Region 1","Golestan",9
+2020-03-19,"Region 1","Qazvin",47
+2020-03-19,"Region 2","Esfahan",108
+2020-03-19,"Region 2","Fars",21
+2020-03-19,"Region 2","Hormozgan",5
+2020-03-19,"Region 2","Kohgiluyeh and Buyer Ahmad",15
+2020-03-19,"Region 2","Chahar Mahall and Bakhtiari",3
+2020-03-19,"Region 2","Bushehr",8
+2020-03-19,"Region 3","Gilan",73
+2020-03-19,"Region 3","Ardebil",16
+2020-03-19,"Region 3","East Azarbaijan",58
+2020-03-19,"Region 3","West Azarbaijan",26
+2020-03-19,"Region 3","Kordestan",11
+2020-03-19,"Region 3","Zanjan",26
+2020-03-19,"Region 4","Markazi",47
+2020-03-19,"Region 4","Hamadan",3
+2020-03-19,"Region 4","Khuzestan",22
+2020-03-19,"Region 4","Kermanshah",23
+2020-03-19,"Region 4","Lorestan",37
+2020-03-19,"Region 4","Ilam",8
+2020-03-19,"Region 5","Razavi Khorasan",50
+2020-03-19,"Region 5","Sistan and Baluchestan",18
+2020-03-19,"Region 5","Yazd",69
+2020-03-19,"Region 5","South Khorasan",5
+2020-03-19,"Region 5","Kerman",14
+2020-03-19,"Region 5","North Khorasan",21
+2020-03-20,"Region 1","Qom",36
+2020-03-20,"Region 1","Tehran",220
+2020-03-20,"Region 1","Mazandaran",84
+2020-03-20,"Region 1","Alborz",95
+2020-03-20,"Region 1","Semnan",52
+2020-03-20,"Region 1","Golestan",15
+2020-03-20,"Region 1","Qazvin",8
+2020-03-20,"Region 2","Esfahan",145
+2020-03-20,"Region 2","Fars",50
+2020-03-20,"Region 2","Hormozgan",17
+2020-03-20,"Region 2","Kohgiluyeh and Buyer Ahmad",1
+2020-03-20,"Region 2","Chahar Mahall and Bakhtiari",3
+2020-03-20,"Region 2","Bushehr",1
+2020-03-20,"Region 3","Gilan",99
+2020-03-20,"Region 3","Ardebil",35
+2020-03-20,"Region 3","East Azarbaijan",55
+2020-03-20,"Region 3","West Azarbaijan",27
+2020-03-20,"Region 3","Kordestan",15
+2020-03-20,"Region 3","Zanjan",44
+2020-03-20,"Region 4","Markazi",17
+2020-03-20,"Region 4","Hamadan",5
+2020-03-20,"Region 4","Khuzestan",10
+2020-03-20,"Region 4","Kermanshah",22
+2020-03-20,"Region 4","Lorestan",9
+2020-03-20,"Region 4","Ilam",20
+2020-03-20,"Region 5","Razavi Khorasan",48
+2020-03-20,"Region 5","Sistan and Baluchestan",8
+2020-03-20,"Region 5","Yazd",49
+2020-03-20,"Region 5","South Khorasan",18
+2020-03-20,"Region 5","Kerman",12
+2020-03-20,"Region 5","North Khorasan",17
+2020-03-21,"Region 1","Qom",20
+2020-03-21,"Region 1","Tehran",232
+2020-03-21,"Region 1","Mazandaran",28
+2020-03-21,"Region 1","Alborz",55
+2020-03-21,"Region 1","Semnan",0
+2020-03-21,"Region 1","Golestan",6
+2020-03-21,"Region 1","Qazvin",59
+2020-03-21,"Region 2","Esfahan",101
+2020-03-21,"Region 2","Fars",22
+2020-03-21,"Region 2","Hormozgan",0
+2020-03-21,"Region 2","Kohgiluyeh and Buyer Ahmad",12
+2020-03-21,"Region 2","Chahar Mahall and Bakhtiari",2
+2020-03-21,"Region 2","Bushehr",0
+2020-03-21,"Region 3","Gilan",57
+2020-03-21,"Region 3","Ardebil",6
+2020-03-21,"Region 3","East Azarbaijan",72
+2020-03-21,"Region 3","West Azarbaijan",14
+2020-03-21,"Region 3","Kordestan",7
+2020-03-21,"Region 3","Zanjan",35
+2020-03-21,"Region 4","Markazi",0
+2020-03-21,"Region 4","Hamadan",5
+2020-03-21,"Region 4","Khuzestan",31
+2020-03-21,"Region 4","Kermanshah",27
+2020-03-21,"Region 4","Lorestan",34
+2020-03-21,"Region 4","Ilam",18
+2020-03-21,"Region 5","Razavi Khorasan",57
+2020-03-21,"Region 5","Sistan and Baluchestan",5
+2020-03-21,"Region 5","Yazd",52
+2020-03-21,"Region 5","South Khorasan",0
+2020-03-21,"Region 5","Kerman",8
+2020-03-21,"Region 5","North Khorasan",1
+2020-03-22,"Region 1","Qom",17
+2020-03-22,"Region 1","Tehran",249
+2020-03-22,"Region 1","Mazandaran",36
+2020-03-22,"Region 1","Alborz",60
+2020-03-22,"Region 1","Semnan",0
+2020-03-22,"Region 1","Golestan",10
+2020-03-22,"Region 1","Qazvin",29
+2020-03-22,"Region 2","Esfahan",87
+2020-03-22,"Region 2","Fars",26
+2020-03-22,"Region 2","Hormozgan",2
+2020-03-22,"Region 2","Kohgiluyeh and Buyer Ahmad",0
+2020-03-22,"Region 2","Chahar Mahall and Bakhtiari",2
+2020-03-22,"Region 2","Bushehr",0
+2020-03-22,"Region 3","Gilan",38
+2020-03-22,"Region 3","Ardebil",19
+2020-03-22,"Region 3","East Azarbaijan",57
+2020-03-22,"Region 3","West Azarbaijan",28
+2020-03-22,"Region 3","Kordestan",16
+2020-03-22,"Region 3","Zanjan",28
+2020-03-22,"Region 4","Markazi",36
+2020-03-22,"Region 4","Hamadan",7
+2020-03-22,"Region 4","Khuzestan",22
+2020-03-22,"Region 4","Kermanshah",19
+2020-03-22,"Region 4","Lorestan",33
+2020-03-22,"Region 4","Ilam",17
+2020-03-22,"Region 5","Razavi Khorasan",42
+2020-03-22,"Region 5","Sistan and Baluchestan",15
+2020-03-22,"Region 5","Yazd",84
+2020-03-22,"Region 5","South Khorasan",15
+2020-03-22,"Region 5","Kerman",8
+2020-03-22,"Region 5","North Khorasan",26
